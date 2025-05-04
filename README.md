@@ -1,2 +1,4 @@
-# -NeuroNexus-
-Data science project 1
+# -NeuroNexus
+Author Jyoti rajput /n
+Titanic survival prediction model using  machine learning
+
