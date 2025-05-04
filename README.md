@@ -1,4 +1,4 @@
 # -NeuroNexus
-Author Jyoti rajput /n
+Author Jyoti rajput </br>
 Titanic survival prediction model using  machine learning
 
